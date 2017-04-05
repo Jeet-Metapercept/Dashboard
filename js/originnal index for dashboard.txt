@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<htm lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Baker Bootstrap Theme</title>
+    <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
+    <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+    
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:400,300|Raleway:300,400,900,700italic,700,300,600">
+    <link rel="stylesheet" type="text/css" href="css/jquery.bxslider.css">
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+
+  </head>
+  <body style="background:#304056;">
+    <div class="loader">
+      <div id="myDiv">
+      <!--HEADER-->
+      <div class="header">
+          <header id="main-header">
+            <nav class="navbar navbar-default navbar-fixed-top">
+              <div class="container-fluid">
+                <!-- Topbar -->
+                <div class="topnav">
+                  <div class="container-fluid">
+                    <ul class="social pull-right">
+                       <li><a href="#"><i class="fa fa-lg fa-facebook"></i></a></li>
+                       <li><a href="#"><i class="fa fa-lg fa-twitter"></i></a></li>
+                       <li><a href="#"><i class="fa fa-lg fa-linkedin"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+                <!-- End Topbar -->
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                  <a class="navbar-brand" href="#"><img src="img/Metapercept logo.png"></a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="myNavbar">
+                  <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="#main-header">Home</a></li>
+                    <li class="show-on-hover">
+                      <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services</a>
+                          <ul class="dropdown-menu multi-level">
+                              <li class="dropdown-submenu">
+                                <a href = "#">Software Development</a>
+                                  <ul class="dropdown-menu">
+                                    <li><a href="#"> Web Application </a></li>
+                                    <li><a href="#"> Mobile  Application </a></li>
+                                    <li><a href="#"> Plugin  Application </a></li>
+                                    <li><a href="#"> Knowledge Management<br> System </a></li>
+                                  </ul>
+                              </li>
+                              <li class="dropdown-submenu">
+                                <a href = "#">QA &amp; Testing</a>
+                                  <ul class="dropdown-menu">
+                                    <li><a href="#"> Automation Testing </a></li>
+                                    <li><a href="#"> Regression Testing </a></li>
+                                  </ul>
+                              </li>
+                              <li class="dropdown-submenu">
+                                <a href = "#">Technical Writing</a>
+                                  <ul class="dropdown-menu">
+                                    <li><a href="#"> DITA-XML </a></li>
+                                    <li><a href="#"> Content Conversion </a></li>
+                                    <li><a href="#"> Editing &amp; Proof Reading </a></li>
+                                    <li><a href="#"> Template Development </a></li>
+                                  </ul>
+                              </li>
+                              <li class="dropdown-submenu">
+                                <a href = "#">Training &amp; Certification</a>
+                                  <ul class="dropdown-menu">
+                                    <li><a href="#"> Technical Writing </a></li>
+                                    <li><a href="#"> DITA-XML </a></li>
+                                    <li><a href="#"> Soft Skills </a></li>
+                                    <li><a href="#"> Agile &amp; Scrums </a></li>
+                                  </ul>
+                              </li>
+
+                          </ul>
+                    </li>
+                    <li class="show-on-hover">
+                      <a href="#" data-toggle="dropdown" class="dropdown-toggle">Solutions</a>
+                          <ul class="dropdown-menu multi-level">
+                              <li class="dropdown-submenu">
+                                <a href = "#">Consulting</a>
+                                  <ul class="dropdown-menu">
+                                    <li><a href="#"> UX/UI </a></li>
+                                    <li><a href="#"> Content Management </a></li>
+                                    <li><a href="#"> Business Analysis </a></li>
+                                  </ul>
+                              </li>
+                              <li class="dropdown-submenu">
+                                <a href = "#">Content Strategy &amp; Management</a>
+                                  <ul class="dropdown-menu">
+                                    <li><a href="#"> Content Modeling </a></li>
+                                    <li><a href="#"> Information Architecture </a></li>
+                                  </ul>
+                              </li>
+                              <li class="dropdown-submenu">
+                                <a href = "#">Project Management</a>
+                                  <ul class="dropdown-menu">
+                                    <li><a href="#"> Resource Management </a></li>
+                                    <li><a href="#"> Documentation Projects </a></li>
+                                  </ul>
+                              </li>
+                          </ul>
+                    </li>
+                    <li class="show-on-hover">
+                      <a href="#" data-toggle="dropdown" class="dropdown-toggle">Company</a>
+                          <ul class="dropdown-menu multi-level">
+                              <li class="dropdown-submenu"><a href = "#">About Us</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Business Partners</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Careers</a>
+                              </li>
+                          </ul>
+                    </li>
+                    <li class="show-on-hover">
+                      <a href="#" data-toggle="dropdown" class="dropdown-toggle">Industries</a>
+                          <ul class="dropdown-menu multi-level">
+                              <li class="dropdown-submenu"><a href = "#">Telecom</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Information Technology</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Publishing</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Digital Media</a></li>
+                              <li class="dropdown-submenu"><a href = "#">IT Hardware</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Oil &amp; Energy</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Aerospace</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Heavy Engineering</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Defence</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Healthcare</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Education</a></li>
+                              <li class="dropdown-submenu"><a href = "#">Automobile</a></li>
+                          </ul>
+                    </li>
+                    <li class="show-on-hover"><a href="#contact">Contact Us</a></li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+      </header>             
+    <!--End Header-->
+    <!--Admin Login Form-->
+      <div class="container" style=" margin-top: 150px;">
+          <div class="row">
+              <div class="col-md-4 col-md-offset-4">
+                  <div class="login-panel panel panel-success">
+                    <a class="navbar-brand text-center" href="#"><img src="img/Metapercept logo.png"></a><br><br><br>
+                      <div class="panel-heading">
+                          <h3 class="panel-title">Sign In</h3>
+                      </div>
+                      <div class="panel-body">
+                          <form role="form" name="myForm" method="post" action="" ">
+                              <fieldset>
+                                  <div class="form-group"  >
+                                      <input class="form-control" placeholder="Name" name="admin_name" type="text" autofocus>
+                                  </div>
+                                  <div class="form-group">
+                                      <input class="form-control" placeholder="Password" name="admin_pass" type="password" value="">
+                                  </div>
+                                  <input class="btn btn-lg btn-success btn-block" type="submit" value="Login" name="admin_login" >
+                              </fieldset>
+                          </form>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <!--End Admin Login Form-->
+
+ 
+
+<!--Copyright-->
+  <div class="copyright" style="background-color:#a8d7ff;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8" style="color:black; margin-top:15px;">
+          <p>2017 &copy; Metapercept Technology Services (LLP). All Rights Reserved.&nbsp;&nbsp;&nbsp;
+            <a target="_blank" href="privacy_policy.php" style="text-decoration:none;color:#008dd2;">Privacy Policy</a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank" href="sitemap.html" style="text-decoration:none;color:#008dd2;">View Sitemap</a>
+          </p>
+        </div>
+        <div class="col-md-4 text-center" style="margin-top:15px;">
+          <ul class="footer-socials list-inline">
+            <li>
+              <a target="_blank" href="https://www.facebook.com/Metapercept" class="tooltips" data-toggle="tooltip" data-placement="top" title="facebook" data-original-title="Facebook">
+                <i class="fa fa-facebook"></i>
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="http://in.metapercept.com/wordpress/blog/" class="tooltips" data-toggle="tooltip" data-placement="top" title="Blog" data-original-title="Blog">
+                <i class="fa fa-bold"></i>
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="https://www.linkedin.com/company/2536574" class="tooltips" data-toggle="tooltip" data-placement="top" title="Linkedin" data-original-title="Linkedin">
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="https://twitter.com/MetaPercept" class="tooltips" data-toggle="tooltip" data-placement="top" title="Twitter" data-original-title="Twitter">
+                <i class="fa fa-twitter"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  <!--End Copyright-->
+
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/wow.js"></script>
+    <script src="js/jquery.bxslider.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="contactform/contactform.js"></script>
+    <script>
+      $(document).ready(function(){
+      $(".dropdown, .btn-group").hover(function(){
+        var dropdownMenu = $(this).children(".dropdown-menu");
+        if(dropdownMenu.is(":visible")){
+          dropdownMenu.parent().toggleClass("open");
+          }
+        });
+      });   
+
+    </script>
+    <script type="text/javascript">
+      $('#flipto').on("click", function(event) 
+      {
+        event.preventDefault();       
+          var face = $(this).data("face");  
+            if ( face == "bottom" ) 
+            {
+              $(".cube").removeClass("flip-to-top").addClass("flip-to-bottom");
+              $(this).data("face", "top").text("Flip: to top");
+            } 
+            else 
+            {
+              $(".cube").removeClass("flip-to-bottom").addClass("flip-to-top");
+              $(this).data("face", "bottom").text("Flip: to bottom");
+            }
+      });
+    </script>
+  </body>
+</html>
+
+
+<?php
+include("database/db_conection.php");
+if(isset($_POST['admin_login']))//this will tell us what to do if some data has been post through form with button.
+{
+    $admin_name=$_POST['admin_name'];
+    $admin_pass=$_POST['admin_pass'];
+
+    $admin_query="select * from admin where admin_name='$admin_name' AND admin_pass='$admin_pass'";
+
+    $run_query=mysqli_query($dbcon,$admin_query);
+
+    if(mysqli_num_rows($run_query)>0)
+    {
+
+        echo "<script>window.open('dashboard.php','_self')</script>";
+    }
+    else {
+      echo"<script>alert('Please Enter Correct Username and Password')</script>";
+    }
+}
+?>
